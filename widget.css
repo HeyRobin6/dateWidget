@@ -1,19 +1,19 @@
 .day {font-size: 30px;
-    color: black;
+    color: #37352f;
     font-family:Gotham, sans-serif;
     font-weight: 2000;
     line-height: 40px
     ;}
 
 .month {font-size: 15px;
-    color: black;
+    color: #37352f;
     font-family:Gotham, sans-serif;
     font-weight: 1500;
     line-height: 5px
     ;}
 
 .year {font-size: 15px;
-    color: black;
+    color: #37352f;
     font-family: Gotham, sans-serif;
     font-weight: 1500
         ;}
